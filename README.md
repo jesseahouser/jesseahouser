@@ -1,4 +1,5 @@
-### Hi there 👋
+### Howdy
+My name is Jesse, and I am a full stack software developer. I also have a background in electical engineering and industrial rope access. I volunteer on a search and rescue team and also as a data analyst working on public health.
 
 <!--
 **jesseahouser/jesseahouser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
