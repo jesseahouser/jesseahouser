@@ -1,5 +1,5 @@
-### Howdy
-My name is Jesse, and I am a full stack software developer. I also have a background in electical engineering and industrial rope access. I volunteer on a search and rescue team and also as a data analyst working on public health.
+### Hi there.
+My name is Jesse. I have a professional background in software development, electical engineering, and industrial rope access. My avocational interests include cave/mountain search and rescue, cave survey/exploration, canyoning, and cycling.
 
 <!--
 **jesseahouser/jesseahouser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
