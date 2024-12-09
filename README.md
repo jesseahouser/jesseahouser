@@ -1,6 +1,7 @@
 ### Hi there.
 My name is Jesse. I have a professional background in software development, electical engineering, and industrial rope access. My avocational interests include cave/mountain search and rescue, cave survey/exploration, canyoning, and cycling.
 
+Most of my recent work is in Elixir, Javascript, and PostgreSQL.
 <!--
 **jesseahouser/jesseahouser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
